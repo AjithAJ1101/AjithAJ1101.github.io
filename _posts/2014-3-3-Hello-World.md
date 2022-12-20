@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: AJITH blog 1!
 published: true
 ---
 ## This is blog 1 content
